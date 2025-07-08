@@ -1,0 +1,2 @@
+Pre building state goals: I hope that I can apply all html concepts that I have learn from the foundation path from the odin project website which are element and tag, html boilerplate, typography(text styling), list, links and images and commit messages. 
+Project title: This project is about building a basic recipe website. The website will have a main index page which will hae links to a few recipes.
